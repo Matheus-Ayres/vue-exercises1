@@ -21,6 +21,6 @@ const emit = defineEmits(['chang'])
         3. Integrar dois componentes onde um altera o estado do outro via props e eventos
     </h2>
 
-    <button @click="mudar">{{ variavel }}</button>
+    <button class="button" @mouseenter="mudar">{{ variavel }}</button>
 
 </template>
