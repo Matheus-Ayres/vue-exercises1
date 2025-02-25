@@ -7,7 +7,7 @@
 </script>
 
 <template>
-    <h1>Exercise List</h1>
+    <h1>Exercise List 1</h1>
     <h2> 
         {{ text }}
     </h2>
